@@ -1,7 +1,7 @@
-export default function LoginPage() {
+export default function Footer() {
     return(
         <h1>
-            Giay Doi Page
+            Footer component
         </h1>
     )
 }
